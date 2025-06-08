@@ -1,4 +1,4 @@
-# Malware-Detection-Lab
+# nmap-Lab
 
 ## Objective
 
